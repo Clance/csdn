@@ -14,7 +14,7 @@ import com.readystatesoftware.systembartint.SystemBarTintManager;
  * Created by clj on 2015/11/2.
  */
 public class BaseActivity extends AppCompatActivity {
-    //12344
+    //123444
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
