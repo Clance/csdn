@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import com.clj.csdn.R;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 
-/**
+/**123
  * Created by clj on 2015/11/2.
  */
 public class BaseActivity extends AppCompatActivity {
