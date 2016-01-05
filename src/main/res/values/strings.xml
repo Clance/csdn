@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">csdn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_internet">无网络连接~！</string>
+    <string name="generic_server_down">连接服务器失败~！</string>
+    <string name="generic_error">网络异常,请稍后再试~！</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+</resources>
