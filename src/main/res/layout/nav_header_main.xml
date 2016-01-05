@@ -11,7 +11,7 @@
         android:background="@color/colorPrimary"
         android:scaleType="fitXY" />
 
-    <com.android.clj.csdn.view.TitanicTextView
+    <com.clj.csdn.view.TitanicTextView
         android:id="@+id/titanic_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
